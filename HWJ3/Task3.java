@@ -29,6 +29,7 @@ public class Task3 {
         list.add("brown");
         return list;
     }
+    
     static String addExclamationPoint(String str) {
         str += "!";
         return str;
